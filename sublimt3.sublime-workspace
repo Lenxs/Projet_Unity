@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"UnityEngine"
+			],
+			[
+				"u",
+				"UnityEngine"
+			],
+			[
+				"Bo",
+				"BoatManager"
+			],
+			[
+				"pri",
+				"prixmoyen"
+			],
+			[
+				"pr",
+				"prixmoyen"
+			],
+			[
+				"P",
+				"PlayerStats"
+			],
+			[
+				"G",
+				"GetComponent"
+			],
+			[
+				"code",
+				"codeProjet"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"da",
+				"date_creation"
+			],
+			[
+				"no",
+				"nom_responsable"
+			],
+			[
+				"se",
+				"secteurAct"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"co",
+				"codeClient"
+			],
+			[
+				"m",
+				"materiel"
+			],
+			[
+				"et",
+				"etat"
+			],
+			[
+				"F",
+				"FirstPersonController"
+			],
+			[
+				"g",
+				"gameOver"
+			],
+			[
+				"p",
+				"promo193"
+			],
+			[
+				"c",
+				"classe"
+			],
+			[
+				"rep",
+				"rep2"
+			],
+			[
+				"date",
+				"date_inscription"
+			],
+			[
+				"e",
+				"Etudiant"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"hp",
+				"hpTxt"
+			],
+			[
+				"ic",
+				"iceCost"
+			],
+			[
+				"cur",
+				"currentMana"
+			],
+			[
+				"s",
+				"stats"
+			],
+			[
+				"fe",
+				"feuCost"
+			],
+			[
+				"po",
+				"poVFX"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"Va",
+				"Valider"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"l",
+				"lg"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"req",
+				"requser"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"ps",
+				"pseudoco"
+			],
+			[
+				"mdp",
+				"mdpco"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pe",
+				"pseudoexist"
+			],
+			[
+				"mai",
+				"mailexist"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"my",
+				"mysql"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"_",
+				"_animator"
+			],
+			[
+				"pl",
+				"Playerinv"
+			],
+			[
+				"Is",
+				"isGrounded"
+			],
+			[
+				"M",
+				"MaxFall"
+			],
+			[
+				"w",
+				"WaitForSeconds"
+			],
+			[
+				"S",
+				"Spell2"
+			],
+			[
+				"Pl",
+				"Play"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"I",
+				"IEnumerator"
+			],
+			[
+				"C",
+				"CompareTag"
+			],
+			[
+				"th",
+				"theme"
+			],
+			[
+				"A",
+				"AudioSource"
+			],
+			[
+				"R",
+				"RayHitSpell"
+			],
+			[
+				"a",
+				"anlgeExplo"
+			],
+			[
+				"spell3",
+				"spell3GO"
+			],
+			[
+				"at",
+				"attackTime"
+			],
+			[
+				"D",
+				"Dmg"
+			],
+			[
+				"T",
+				"Transform"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n \"folders\":\n [\n  {\n  \"follow_symlinks\": true,\n  \"path\": \"Assets/Scripts\",\n   \"file_exclude_patterns\":\n   [\n    \"*.dll\",\n    \"*.meta\"\n   ]\n  }\n ],\n \"solution_file\": \"./Maud2.sln\"\n",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nolwenn/Desktop"
+	],
+	"file_history":
+	[
+		"/C/Users/nolwenn/Desktop/cours mysql.sql",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/Boat.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/Sun.cs",
+		"/C/Users/nolwenn/Desktop/Script/StatsBar.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/MainMenu.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/MainMenu.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/Zone.cs",
+		"/C/Users/nolwenn/Desktop/Script/Mouv.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/GreenForest/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs",
+		"/C/Users/nolwenn/Documents/Td Project/Assets/script/PlayerController.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/Control.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/Controle.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/TestCar.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/Pnj.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/PopUp.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/PlayerStats.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/Lumiere.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Mob1.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Bullet.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Mob2.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Tourelle.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/GunController.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/PlayerController.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Player.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/EnemyIA.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Projectile.cs",
+		"/C/Users/nolwenn/Documents/2k19/Assets/Script/Gun.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/TestIA.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Script/Dialogue.cs",
+		"/C/Users/nolwenn/Documents/Maud 2/Assets/Classic New York Buildings/Resources/SMAA/SMAA/Scripts/Editor/MinDrawer.cs",
+		"/C/Program Files (x86)/GOG Galaxy/Games/Moonlighter/unins000.dat",
+		"/C/Program Files (x86)/GOG Galaxy/Games/Moonlighter/goggame-2147483047.script",
+		"/C/Program Files (x86)/GOG Galaxy/Games/Moonlighter/Moonlighter_Data/Managed/Assembly-CSharp.dll",
+		"/C/Program Files (x86)/GOG Galaxy/Games/Moonlighter/Moonlighter_Data/level0",
+		"/C/Program Files (x86)/GOG Galaxy/Games/Moonlighter/Moonlighter_Data/Mono/etc/mono/mconfig/config.xml",
+		"/C/Users/nolwenn/Documents/Td Project/Assets/script/PlayerMotor.cs",
+		"/C/Users/nolwenn/Documents/New Rpg Project/Assets/script/PlayerMotor.cs",
+		"/C/Users/nolwenn/Documents/New Rpg Project/Assets/script/PlayerController.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/PlayerStats.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/ToxicSpell.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/Projectile.cs",
+		"/C/wamp64/www/lundi 19-11/exoDiv.php",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/PlayerShoot.cs",
+		"/C/wamp64/www/lundi 19-11/multi.php",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/Robot.cs",
+		"/C/Users/nolwenn/Documents/2.0 2k18/Assets/Script/PlayerController.cs",
+		"/C/Users/nolwenn/Documents/2.0 2k18/Assets/Script/PlayerMotor.cs",
+		"/C/Users/nolwenn/Documents/2.0 2k18/Assets/Script/Balle.cs",
+		"/C/Users/nolwenn/Documents/2.0 2k18/Assets/Script/PlayerStats.cs",
+		"/C/Users/nolwenn/Documents/2.0 2k18/Assets/Script/PlayerShoot.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/PlayerWeapon.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/PlayerController.cs",
+		"/C/Users/nolwenn/Documents/Project 2k18/Assets/script/script solo/PlayerMotor.cs",
+		"/F/Script/DialogueManager.cs",
+		"/F/Script/ActionManager.cs",
+		"/C/Users/nolwenn/Desktop/entrecar",
+		"/F/Script/Action.cs",
+		"/F/Script/DialogueTrigger.cs",
+		"/F/Script/Dialogue.cs",
+		"/C/Users/nolwenn/Desktop/Script/maison.cs",
+		"/C/Users/nolwenn/Desktop/Script/Pnj.cs",
+		"/C/wamp64/www/lundi 19-11/PHP rectangle",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/TimeBody.cs",
+		"/C/Users/nolwenn/Documents/Projet Maud/Assets/Script/Test.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/test build/Assets/script/changeScene.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/test/Assets/3rdPerson+Fly/Scripts/PlayerScripts/MoveBehaviour.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/test/Assets/3rdPerson+Fly/Scripts/PlayerScripts/BasicBehaviour.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/test/Assets/3rdPerson+Fly/Scripts/PlayerScripts/FlyBehaviour.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/test/Assets/3rdPerson+Fly/Scripts/PlayerScripts/AimBehaviourBasic.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/teleport.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/PointInTime.cs",
+		"/C/Users/nolwenn/Documents/Projet Maud/Assets/Script/Action.cs",
+		"/C/wamp64/www/lundi 19-11/rectangle.php",
+		"/C/Users/nolwenn/Documents/Projet Maud/Assets/Script/Mouv.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/SwitchView.cs",
+		"/C/Program Files (x86)/Ampps/www/inscription.php",
+		"/C/Program Files (x86)/Ampps/www/conection.php",
+		"/C/Users/nolwenn/Documents/Td Project/Assets/script/Guard.cs",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/index1.html",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/index2.html",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/style.css",
+		"/C/Program Files (x86)/Ampps/www/deco.php",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/profil.php",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/conection.php",
+		"/C/Program Files (x86)/Ampps/www/pw10-bis/inscription.php",
+		"/C/Program Files (x86)/Ampps/www/profil.php",
+		"/C/Program Files (x86)/Ampps/www/index1.html",
+		"/C/Program Files (x86)/Ampps/www/test2.php",
+		"/C/Program Files (x86)/Ampps/www/pw10bis/index.php",
+		"/C/Program Files (x86)/Ampps/www/test.html",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/MenuPause.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/Rpg/Assets/script/OptionMenu.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/effetSon.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/enemyAI.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/script/spellCollision.cs",
+		"/C/Users/nolwenn/Documents/unity projet (version 2017)/fight fun/Assets/InventoryMaster/Scripts/ExampleScript/PlayerInventory.cs",
+		"/C/Users/nolwenn/Downloads/Soldier.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/AudioMap.cs",
+		"/C/Users/nolwenn/Documents/test/Assets/Low Poly Flat Sci Fi Assets/Documentation/readme.txt",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/enemyAI2.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/enemyAI.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/autoDestruction.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/spellCollision.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/InventoryMaster/Scripts/Item/PickUpItem.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/effetSon.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/InventoryMaster/Scripts/Inventory/Inventory.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/InventoryMaster/Scripts/ExampleScript/PlayerInventory.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/Controle.cs",
+		"/C/Users/nolwenn/Documents/fight fun/Assets/script/DegatChute.cs"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimt3.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
