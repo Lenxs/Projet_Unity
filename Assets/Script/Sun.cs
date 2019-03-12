@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Sun : MonoBehaviour
 {
-    public float timer;
+    public float timer = 40f;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,7 +14,7 @@ public class Sun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.RotateAround(Vector3.zero,Vector3.right,timer*Time.deltaTime);
+        transform.RotateAround(Vector3.zero,Vector3.right,40f*Time.deltaTime);
         transform.LookAt(Vector3.zero);
     }
 }
